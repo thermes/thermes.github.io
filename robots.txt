@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://thermes.github.io/sitemap.xml 
+Sitemap: http://op.confei.to//sitemap.xml 

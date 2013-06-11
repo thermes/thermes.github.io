@@ -2,15 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Show me eternity.]]></title>
-  <link href="http://thermes.github.io/atom.xml" rel="self"/>
-  <link href="http://thermes.github.io/"/>
-  <updated>2013-06-11T14:16:32+09:00</updated>
-  <id>http://thermes.github.io/</id>
+  <link href="http://op.confei.to//atom.xml" rel="self"/>
+  <link href="http://op.confei.to//"/>
+  <updated>2013-06-11T14:29:12+09:00</updated>
+  <id>http://op.confei.to//</id>
   <author>
     <name><![CDATA[THERMES]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://op.confei.to//blog/2013/06/11/test/"/>
+    <updated>2013-06-11T14:28:00+09:00</updated>
+    <id>http://op.confei.to//blog/2013/06/11/test</id>
+    <content type="html"><![CDATA[<p>Octpress のテスト。
+インストールは予想以上に簡単だったよ。</p>
+
+<p>あいうえお。</p>
+]]></content>
+  </entry>
   
 </feed>
