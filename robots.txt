@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://op.confei.to//sitemap.xml 
